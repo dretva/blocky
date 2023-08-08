@@ -22,7 +22,7 @@ div#map > .pixel {
 	width: 20px;
 }
 
-div#map > .pixel > img {
+div#map > .pixel > img, div#map > .pixel > svg {
 	display: block;
 	height: 18px !important;
 	margin: 0 auto;
